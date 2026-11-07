@@ -14,3 +14,4 @@ Append-only record of all operations.
   - Added `mkdocs.yml` (nav set to the 6 current pages), `hooks.py` (changed so back-links aren't counted as notes and files are read as UTF-8), `requirements.txt`, `.github/workflows/deploy.yml` and `.gitignore`.
   - Added "Latest Finds" to `index.md` and moved the page tables under "Topics".
   - Added an "Update the Website" section to `CLAUDE.md`.
+- **2026-11-07**: Published the site. Created the public repo `danmulat/personal-notes`, pushed, and turned on GitHub Pages (source: GitHub Actions). The site is live at https://danmulat.github.io/personal-notes/. Added `.obsidian/workspace.json` to `.gitignore`.
