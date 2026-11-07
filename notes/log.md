@@ -15,3 +15,6 @@ Append-only record of all operations.
   - Added "Latest Finds" to `index.md` and moved the page tables under "Topics".
   - Added an "Update the Website" section to `CLAUDE.md`.
 - **2026-11-07**: Published the site. Created the public repo `danmulat/personal-notes`, pushed, and turned on GitHub Pages (source: GitHub Actions). The site is live at https://danmulat.github.io/personal-notes/. Added `.obsidian/workspace.json` to `.gitignore`.
+- **2026-11-07**: Ingested `raw/New_Notes.md` (1 note) and moved it to `processed/New_Notes_2026-11-07_2.md`.
+  - Added "PostGIS spatial joins, translated to DuckDB" (Geomermaids) to `SQL.md` (new page).
+  - Added SQL to `index.md` (Topics and Latest Finds) and to the `mkdocs.yml` nav.

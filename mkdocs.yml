@@ -61,6 +61,7 @@ nav:
   - Home:
     - index.md
     - Embeddings: Embeddings.md
+    - SQL: SQL.md
     - Python: Python.md
     - Data: Data.md
     - Climate Change: Climate_Change.md
